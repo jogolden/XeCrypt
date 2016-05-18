@@ -2,6 +2,7 @@
 Created by xorloser! Allows common hashing and encryption algorithms used on the Xbox 360 console to be used readily and in the same manner in VC++!
 
 // note from xor
+
 This enables use of the XeCrypt functions as used in the Xbox360 kernel.
 This consists of all of the kernel exports from 345 to 402.
 
