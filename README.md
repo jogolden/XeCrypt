@@ -1,6 +1,7 @@
 # XeCrypt
 Created by xorloser! Allows common hashing and encryption algorithms used on the Xbox 360 console to be used readily and in the same manner in VC++!
 
+// note from xor
 This enables use of the XeCrypt functions as used in the Xbox360 kernel.
 This consists of all of the kernel exports from 345 to 402.
 
@@ -17,3 +18,5 @@ by just linking in the XeCrypt library.
 Note: "_XBOX" should be defined in order to use these on the Xbox360.
 An Xbox360 project created in Visual Studio defines this by default for you.
 Leave it undefined to use them on the pc.
+
+Just use xkelib if your building an xex or something, as noted this will do the job just please prefer xkelib!
