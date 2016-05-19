@@ -21,3 +21,7 @@ An Xbox360 project created in Visual Studio defines this by default for you.
 Leave it undefined to use them on the pc.
 
 Just use xkelib if your building an xex or something, as noted this will do the job just please prefer xkelib!
+
+    // to easily include ;)
+    #include "XeCrypt.h"
+    #pragma comment(lib, "XeCrypt.lib")
